@@ -32,4 +32,6 @@ Security Tools: WireGuard, OpenVPN, UFW, Snort
 Deployment: On-premises / offline capable
 
 💡 Why NOMAD?
+
+
 Unlike cloud-dependent solutions, NOMAD is purpose-built for high-security, isolated networks, giving operators full control even in restricted or offline environments.
